@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game Night Randomizer</string>
+    <string name="shuffle">SHUFFLE</string>
+    <string name="shuffled_players">SHUFFLED PLAYERS</string>
+    <string name="returnBT">RETURN</string>
+    <string name="play_in_this_order">(PLAY IN THIS ORDER)</string>
+    <string name="reshuffle">RESHUFFLE</string>
+</resources>
